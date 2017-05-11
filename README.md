@@ -1,7 +1,21 @@
 
 
 # Basic Frontend
-My first project in git! :)
+Meu primeiro projeto no git
+
+1. Instalar dependências
+```
+npm install
+```
+2. Rodar tarefas do Gulp
+```
+gulp
+```
+3. Acessar localhost
+```
+http://localhost:8080/
+```
+
 
 # Dependencies
     * jquery
