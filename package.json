@@ -1,0 +1,46 @@
+{
+  "name": "basic",
+  "version": "0.0.1",
+  "description": "Basic - Frontend",
+  "main": "index.html",
+  "author": "git-animaweb",
+  "license": "ISC",
+  "homepage": "https://github.com/git-animaweb/basic-frontend#readme",  
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-animaweb/basic-frontend.git"
+  },
+
+  "keywords": [
+    "basic",
+    "frontend"
+  ],
+
+  "scripts": {
+    "test": "gulp test",
+    "gulp": "gulp"
+  },
+  
+  "bugs": {
+    "url": "https://github.com/git-animaweb/basic-frontend/issues"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.1",
+    "gulp-rename": "1.2.2",
+    "gulp-uglify": "2.1.2",
+    "gulp-less": "3.3.0",
+    "gulp-clean-css": "3.2.0",
+    "gulp-htmlmin": "3.0.0",
+    "gulp-connect": "5.0.0",
+    "gulp-watch": "4.3.11"
+  },
+  "dependencies": {
+    "jquery": "3.1.1",
+    "bootstrap": "3.3.7",
+    "bower": "1.8.0"
+  }
+}
+
+
